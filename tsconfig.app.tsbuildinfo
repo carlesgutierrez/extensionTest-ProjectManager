@@ -1,0 +1,1 @@
+{"root":["./src/background.ts","./src/main.ts","./src/vite-env.d.ts","./src/store/index.ts","./src/App.vue","./src/components/Dashboard.vue","./src/components/HelloWorld.vue","./src/components/ProjectForm.vue"],"errors":true,"version":"5.6.2"}
